@@ -1,0 +1,6 @@
+#remove all files in the finenv directory
+finenv/*
+
+
+
+finenv/
